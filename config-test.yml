@@ -16,3 +16,5 @@ eureka:
 
 
 version: 2
+config:
+  info: 22222222
