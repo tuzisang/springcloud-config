@@ -1,2 +1,2 @@
 springcloud-config
-统一的仓库
+统一的仓库配置
